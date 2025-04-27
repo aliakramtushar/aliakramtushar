@@ -1,10 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ali Akram Tushar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm [Ali Akram] 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a **Full-Stack Developer** with over 7 years of experience in designing and building scalable, high-performance solutions. I'm passionate about driving innovation, improving operational efficiency, and leading teams to success. I specialize in **.NET Core**, **Angular**, and **API integrations**, and I'm always looking for ways to take on new challenges and grow my skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🔧 Technologies & Tools
 
+- **Languages**: C#, JavaScript, TypeScript, SQL
+- **Frameworks**: .NET Core, ASP.NET MVC, Angular, Entity Framework
+- **Tools**: Docker, Kubernetes, Git, Visual Studio, VS Code, Postman
+- **Databases**: SQL Server, PostgreSQL
+- **Cloud**: Azure, AWS
+- **Version Control**: Git, GitHub, GitLab
+
+## 🌱 Current Focus
+
+- Building robust **payment gateway solutions** and **scalable systems** with **.NET Core** and **Angular**.
+- Implementing **cloud-native solutions** and microservices with **Docker** and **Kubernetes**.
+- Enhancing team collaboration and **agile methodologies** in project management.
+
+## 💼 Projects
+
+### [TIB Finance – Payment Gateway Solution](#)
+TIB Finance is a secure and scalable payment gateway solution designed for businesses. It automates workflows, integrates payment providers, and provides real-time transaction insights.
+- Solved critical **concurrency issues** for high-performance transactions.
+- Integrated multiple **payment providers** like **BlueSnap**, **RBC**, and **Moneris**.
+- Developed **APIs** for external users and implemented **unit testing** to ensure reliability.
+
+### [VoxStream – Communication Software for Defense](#)
+VoxStream enables defense personnel to communicate in real-time with walkie-talkie-like functionality. It includes features for location tracking, network creation, and sending multimedia content.
+- Developed a **location tracking system** and **real-time communication features**.
+- Integrated **audio, video, and text communication** with a custom admin dashboard.
+- Worked on **high-availability systems** for secure communications.
+
+## 📚 Learning & Growth
+
+- Currently diving deeper into **microservices** and **cloud architecture**.
+- Exploring **DevOps** tools like **Terraform**, **Jenkins**, and **Helm** for automating cloud deployments.
+
+## 📬 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/aliakramtushar/)
+
+---
+
+Feel free to explore my repositories below, where I share various projects, solutions, and contributions to the open-source community.
